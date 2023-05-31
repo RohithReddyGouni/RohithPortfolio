@@ -15,7 +15,7 @@ function App() {
           <Profile />
         </Grid>
         <Grid item xs>
-          <Router basename="/profile">
+          <Router basename="/">
             <Header />
             <div className="main-content">
               <Routes>
