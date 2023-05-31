@@ -38,7 +38,7 @@ const data = {
       icon: <CodeIcon />,
     },
     {
-      link: "https://rohithreddygouni.github.io/",
+      link: "https://rohithreddygouni.github.io/RohithPortfolio/",
       text: "Website",
       profile: "RohithReddyGouni",
       icon: <LanguageIcon />,
