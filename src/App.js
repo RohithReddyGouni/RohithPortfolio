@@ -15,7 +15,7 @@ function App() {
           <Profile />
         </Grid>
         <Grid item xs>
-          <Router basename="/">
+          <Router basename="/RohithPortfolio">
             <Header />
             <div className="main-content">
               <Routes>
