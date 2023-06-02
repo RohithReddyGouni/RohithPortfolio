@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/RohithPortfolio/static/css/main.78b819bd.css",
-    "main.js": "/RohithPortfolio/static/js/main.202e1471.js",
+    "main.js": "/RohithPortfolio/static/js/main.b194f89e.js",
     "static/js/787.f2a0fa2f.chunk.js": "/RohithPortfolio/static/js/787.f2a0fa2f.chunk.js",
     "static/media/BackgroundImage.jpg": "/RohithPortfolio/static/media/BackgroundImage.685296bfafdb21fc8cb9.jpg",
-    "static/media/Rohith.jpeg": "/RohithPortfolio/static/media/Rohith.ff37503abfb20165268b.jpeg",
+    "static/media/Sunset.jpeg": "/RohithPortfolio/static/media/Sunset.2c2852f8d823ed8aa09e.jpeg",
     "static/media/RohithReddy_Gouni_Resume.pdf": "/RohithPortfolio/static/media/RohithReddy_Gouni_Resume.98db0b1fe830e51e29d3.pdf",
     "static/media/TVMaze.jpeg": "/RohithPortfolio/static/media/TVMaze.8056debe148931bb2174.jpeg",
     "static/media/SkyScrappers.jpeg": "/RohithPortfolio/static/media/SkyScrappers.05f4d037d2a924a3425a.jpeg",
     "static/media/CourseReview.webp": "/RohithPortfolio/static/media/CourseReview.b2642c80014e3e5a91f1.webp",
     "index.html": "/RohithPortfolio/index.html",
     "main.78b819bd.css.map": "/RohithPortfolio/static/css/main.78b819bd.css.map",
-    "main.202e1471.js.map": "/RohithPortfolio/static/js/main.202e1471.js.map",
+    "main.b194f89e.js.map": "/RohithPortfolio/static/js/main.b194f89e.js.map",
     "787.f2a0fa2f.chunk.js.map": "/RohithPortfolio/static/js/787.f2a0fa2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78b819bd.css",
-    "static/js/main.202e1471.js"
+    "static/js/main.b194f89e.js"
   ]
 }
