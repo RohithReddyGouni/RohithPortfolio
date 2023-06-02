@@ -1,7 +1,7 @@
 import React from "react";
 //import "../styles/ProfileStyles.css";
 import { Typography } from "@mui/material";
-import ProfilePic from "../assets/images/Rohith.jpeg";
+import ProfilePic from "../assets/images/Sunset.jpeg";
 import PersonOutlineIcon from "@mui/icons-material/PersonOutline";
 import CustomTimeline from "../components/CustomTimeline";
 import CustomTimelineItem from "../components/CustomTimelineItem";
